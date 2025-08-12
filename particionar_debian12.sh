@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Disco objetivo (modificar según sea necesario)
-DISCO="/dev/sdX"
+DISCO="/dev/sda"
 
 # Mostrar particiones actuales
 echo "=== Particiones actuales en $DISCO ==="
